@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Talk Title
+=======
+## Title
+>>>>>>> 00cf40087ba72848ca765fba0ec64275f1525e71
 
 DeepDive into DevSecOps 
 
