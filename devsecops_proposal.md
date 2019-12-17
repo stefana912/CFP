@@ -1,12 +1,12 @@
-##Title
+## Talk Title
 
 DeepDive into DevSecOps 
 
-##Elevator Pitch (300 Characters)
+## Elevator Pitch (300 Characters)
 
 DevSecOps is a misnomer. The idea that Security is smashed in between Dev and Ops is exactly the problem we face. In this talk, we will deep dive into a sample DevSecOps pipeline and show precisely how Security is not the blocker some make them out to be. 
 
-##Description 
+## Description 
 
 DevSecOps is a misnomer. The idea that Security is smashed in between Dev and Ops is exactly the problem we face. Many believe security is the blocker before getting their application out to production. Owned by some distant, unapproachable team, security can seem like the new deep divide with a 'throw it over the wall' mentality. 
 
@@ -16,14 +16,16 @@ We will focus on a fictional company, specific challenges they faced, and the th
 
 We'll step through the DevOps cycle and expose exactly where Security comes into play and how many of the steps/process/requirements can be automated to eliminate toil. 
 
-##
+## Timing
+Talk is a 30 - 45 minute session
 
 ##Notes 
-*I'll use a powerpoint presentation.  
-*Will need 2 mics - adding a co-presenter. 
-*DevOps Experience
+* I'll use a powerpoint presentation.  
+* Will need 2 mics - adding a co-presenter / security expert. 
+
+## Speaker Experience
 I’ve supported enterprise organizations on their DevOps journeys for the past 7 years and have made some awesome mistakes along the way. Whenever I ask someone what tangible items are considered “DevSecOps” they throw ‘tools and training’ at me with limited detail. This presentation is intended to provide the detail we’ve all been searching for. I don’t sell software. 
-*Speaking Experience:
+
 I’ve presented in at a variety of events including AWS re:Invent, CloudExpo and DevOps Summit, Microsoft Channel9, CA World, DockerNYC Meetup, and DeveloperWeek NY, and Developer Week Austin. I’ve also presented at a variety of local community organizations like Girls Inc., Girls Scouts of Nassau County, XXCoders, AlignUS, Ctrl+She, and others.  
 Some recordings of my previous talks:   
 
